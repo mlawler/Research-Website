@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+<head><!-- title: less than 64 characters and include important keywords -->
+    <meta charset="utf-8">
+    <title>
+      Lawler group research on strongly correlated electrons theory
+    </title>
+    <meta name="description" content=
+        "This website is devoted to Michael J. Lawler's research group on
+        strongly correlated elecrons theory at Binghamton University">
+    <meta name="keywords" content = "">
+    <!--[if lt IE 9]>
+          <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+   <!-- "strong" tags should be used to tell web crawlers what is important -->
+   <header></header>
+
+   <nav></nav>
+
+   <aside></aside>
+
+   <main>
+      <!-- Find a way to insert news articles modularly so it is easy to add
+      new articles!! -->
+   </main>
+
+   <footer></footer>
+
+   <script src="common.js"> </script>
+   <script>
+      var xhttp = new XMLHttpRequest();
+      xhttp.open("Get","news.xml",false);
+      xhttp.send();
+      document.querySelector("main").innerHTML = xhttp.responseText;
+   </script>
+
+</body>
+</html>

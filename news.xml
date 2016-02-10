@@ -1,0 +1,142 @@
+<h1> Recent publications</h1> 
+(updated May 18th, 2014)
+
+<article>
+    <header>
+        <h3 class="title">Direct phase-sensitive identification of a d-form factor density wave in underdoped cuprates</h3>
+    </header>
+    <div id="authorlist">K. Fujita, M. H. Hamidian, S. D. Edkins, C. K. Kim, Y. Kohsaka, M. Azuma, M. Takano, H. Takagi, H. Eisaki, S.-I. Uchida, A. Allias, M. J. Lawler, E.-A. Km, S. Sachdev and J. C. S. Davis</div>
+    <p> High-temperature superconductivity emerges when holes are introduced
+        into the antiferromagnetic, insulating CuO2 plane of the cuprates.
+        Intervening between the insulator and the superconductor is the
+        mysterious pseudogap phase. Evidence has been accumulating that
+        this phase supports an exotic density wave state that may be key
+        to its existence. By introducing visualization techniques that
+        discriminate the electronic structure at the two oxygen sites
+        with each CuO2 unit cell, we demonstrate that this density wave
+        consists of periodic modulations maintaining a phase difference
+        of π between every such pair of oxygen sites. Therefore, the
+        cuprate pseudogap phase contains a previously unknown electronic
+        state—a density wave with a d-symmetry form factor.</p>
+    <footer>
+        <p>Read more on <a  class="more" href="http://arxiv.org/abs/1404.0362">
+        arXiv.org</a>,
+        <a class="more" href="http://www.pnas.org/content/early/2014/07/02/1406297111.short">
+        Proc. Natl. Acad. Sci., USA, 10.1073/pnas.1406297111</a>.</p>
+    </footer>
+</article>
+<article>
+    <header>
+        <h3 class="title">Simultaneous Transitions in Cuprate Momentum-Space Topology and Electronic Symmetry Breaking</h3>
+    </header>
+    <div id="authorlist">K. Fujita, Chung Koo Kim, Inhee Lee, Jinho Lee, M. H. Hamidian, I. A. Firmo, S. Mukhopadhyay, H. Eisaki, S. Uchida, M. J. Lawler, E.-A. Kim and J. C. Davis</div>
+    <p> The existence of electronic symmetry breaking in the underdoped
+        cuprates and its disappearance with increased hole density p are
+        now widely reported. However, the relation between this transition
+        and the momentum-space $\vec k$-space electronic structure
+        underpinning the superconductivity has not yet been established.
+        Here, we visualize the $\vec Q=0$ (intra–unit-cell) and
+        $\vec Q\neq 0$ (density-wave) broken-symmetry states,
+        simultaneously with the coherent $\vec k$-space topology, for
+        Bi2Sr2CaCu2O8+δ samples spanning the phase diagram 0.06 ≤ p ≤ 0.23.
+        We show that the electronic symmetry-breaking tendencies weaken
+        with increasing p and disappear close to a critical doping pc = 0.19.
+        Concomitantly, the coherent $\vec k$-space topology undergoes an
+        abrupt transition, from arcs to closed contours, at the same pc.
+        These data reveal that the $\vec k$-space topology transformation
+        in cuprates is linked intimately with the disappearance of the
+        electronic symmetry breaking at a concealed critical point.</p>
+    <footer>
+        <p>Read more on <a  class="more" href="http://arxiv.org/abs/1210.1585">
+        arXiv.org</a>,
+        <a class="more" href="http://www.sciencemag.org/content/344/6184/612.abstract?sid=0a15f266-602f-4798-84be-d628cee38862">
+        Science <b>344</b>, 612 (2014)</a>.</p>
+    </footer>
+</article>
+<article>
+    <header>
+        <h3 class="title">Striped spin liquid crystal ground state
+            instability of kagome antiferromagnets </h3>
+    </header>
+    <div id="authorlist">B. K. Clark, J. M. Kinder, Eric Neuscamman,
+    G. K.-L. Chan, and M. J. Lawler</div>
+    <p>
+    The Dirac spin liquid ground state of the spin 1/2 Heisenberg kagome
+    antiferromagnet has potential instabilities. This has been suggested
+    as the reason why it does not emerge as the ground state in large-scale
+    numerical calculations. However, previous attempts to observe these
+    instabilities have failed. We report on the discovery of a projected
+    BCS state with lower energy than the projected Dirac spin liquid state
+    which provides new insight into the stability of the ground state of the
+    kagome antiferromagnet. The new state has three remarkable features. First,
+    it breaks spatial symmetry in an unusual way that may leave spinons
+    deconfined along one direction. Second, it breaks the U(1) gauge symmetry
+    down to Z2. Third, it has the spatial symmetry of a previously proposed
+    “monopole” suggesting that it is an instability of the Dirac spin liquid.
+    The state described herein also shares a remarkable similarity to the
+    distortion of the kagome lattice observed at low Zn concentrations in
+    Zn-paratacamite and in recently grown single crystals of volborthite
+    suggesting it may already be realized in these materials.</p>
+    <footer>
+        <p>Read more on <a  class="more" href="http://arxiv.org/abs/1210.1585">
+        arXiv.org</a>,
+        <a class="more" href="http://prl.aps.org/abstract/PRL/v111/i18/e187205">
+        Phys. Rev. Lett. <b>111</b>, 187205 (2013)</a>.</p>
+    </footer>
+</article>
+<article>
+    <header>
+        <h3 class="title">Emergent gauge dynamics of highly frustrated
+            magnets</h3>
+    </header>
+    <div id="authorlist">M. J. Lawler</div>
+    <p>
+    Condensed matter exhibits a wide variety of exotic emergent phenomena
+    such as the fractional quantum Hall effect and the low temperature
+    cooperative behavior of highly frustrated magnets. I consider the classical
+    Hamiltonian dynamics of spins of the latter phenomena using a method
+    introduced by Dirac in the 1950s by assuming they are constrained to their
+    lowest energy configurations as a simplifying measure. Focusing on the
+    kagome antiferromagnet as an example, I find it is a gauge system with
+    topological dynamics and non-locally connected edge states for certain
+    open boundary conditions similar to doubled Chern–Simons electrodynamics
+    expected of a Z2 spin liquid. These dynamics are also similar to electrons
+    in the fractional quantum Hall effect. The classical theory presented here
+    is a first step toward a controlled semi-classical description of the spin
+    liquid phases of many pyrochlore and kagome antiferromagnets and toward a
+    description of the low energy classical dynamics of the corresponding
+    unconstrained Heisenberg models.</p>
+    <footer>
+        <p>Read more on: <a href="http://arxiv.org/abs/1104.0721">
+        arXiv.org</a>,
+        <a href="http://iopscience.iop.org/1367-2630/15/4/043043">
+        New J. Phys. <b>15</b>, 043043 (2013)</a>.</p>
+    </footer>
+</article>
+<article>
+    <header>
+        <h3 class="title">Topological Defects Coupling Smectic Modulations
+        to Intra–Unit-Cell Nematicity in Cuprates</h3>
+    </header>
+    <div id="authorlist">A. Mesaros, K. Fujita, H. Eisaki, S. Uchida,
+    J. C. Davis, S. Sachdev, J. Zaanen, M. J. Lawler, Eun-Ah Kim</div>
+    <p>
+    We study the coexisting smectic modulations and intra–unit-cell nematicity
+    in the pseudogap states of underdoped Bi2Sr2CaCu2O8+δ. By visualizing their
+    spatial components separately, we identified 2π topological defects throughout
+    the phase-fluctuating smectic states. Imaging the locations of large numbers
+    of these topological defects simultaneously with the fluctuations in the
+    intra–unit-cell nematicity revealed strong empirical evidence for a coupling
+    between them. From these observations, we propose a Ginzburg-Landau functional
+    describing this coupling and demonstrate how it can explain the coexistence
+    of the smectic and intra–unit-cell broken symmetries and also correctly predict
+    their interplay at the atomic scale. This theoretical perspective can lead to
+    unraveling the complexities of the phase diagram of cuprate
+    high-critical-temperature superconductors.</p>
+    <footer>
+        <p>Read more on <a href="http://arxiv.org/abs/1108.0487">
+        arXiv.org</a>,
+        <a href="http://www.sciencemag.org/content/333/6041/426.short" class="more">
+        Science 333, <b>426</b> (2011)</a>.</p>
+    </footer>
+</article>
